@@ -4,4 +4,4 @@ by Rowland W. Tabor
 
 This repository supports a Github website. The url of the website is
 
-    http://taborghub/github.io
+    http://taborghub.github.io
